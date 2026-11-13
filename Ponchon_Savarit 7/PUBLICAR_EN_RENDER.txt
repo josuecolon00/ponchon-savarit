@@ -1,0 +1,19 @@
+PUBLICAR EL SIMULADOR COMO ENLACE WEB (Render)
+
+Este ZIP está preparado para Render. Para obtener una URL pública:
+
+1. Crea una cuenta gratuita en https://render.com
+2. Crea un repositorio nuevo en https://github.com e inicia sesión.
+3. Sube el contenido de esta carpeta al repositorio (puedes usar "Add file > Upload files" en GitHub).
+   Importante: sube los archivos y carpetas, no el ZIP dentro del repositorio.
+4. En Render selecciona "New +" > "Web Service" y conecta el repositorio de GitHub.
+5. Render detectará render.yaml. Confirma la configuración y pulsa "Deploy".
+6. Cuando el servicio termine de desplegar, Render mostrará una dirección similar a:
+   https://ponchon-savarit-laboratorio.onrender.com
+7. Comparte esa dirección con tu amigo.
+
+Notas:
+- La primera carga en el plan gratuito puede tardar porque el servicio puede quedar inactivo.
+- No necesitas comprar dominio.
+- No compartas contraseñas ni tokens.
+- El enlace anterior solo existirá después de que completes el despliegue y Render confirme que está activo.

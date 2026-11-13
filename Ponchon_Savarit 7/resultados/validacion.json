@@ -1,0 +1,143 @@
+{
+  "comparacion": {
+    "D": {
+      "simulador": 38.88888888888889,
+      "independiente": 38.88888888888889,
+      "diferencia": 0.0
+    },
+    "B": {
+      "simulador": 61.11111111111111,
+      "independiente": 61.11111111111111,
+      "diferencia": 0.0
+    },
+    "L0": {
+      "simulador": 97.22222222222223,
+      "independiente": 97.22222222222223,
+      "diferencia": 0.0
+    },
+    "QC": {
+      "simulador": 4193743.2638888895,
+      "independiente": 4193743.263888889,
+      "diferencia": 4.656612873077393e-10
+    },
+    "QR": {
+      "simulador": 4231095.847222223,
+      "independiente": 4231095.847222222,
+      "diferencia": 9.313225746154785e-10
+    },
+    "N_grafico": {
+      "simulador": 11.579424598276873,
+      "independiente": 11.57942459827686,
+      "diferencia": 1.2434497875801753e-14
+    },
+    "etapa_alimentacion": {
+      "simulador": 6,
+      "independiente": 6,
+      "diferencia": 0
+    }
+  },
+  "max_error_x": 8.326672684688674e-16,
+  "balances_platos": [
+    {
+      "etapa": 1,
+      "materia": 2.842170943040401e-14,
+      "benceno": 0.0,
+      "energia": -2.7939677238464355e-09
+    },
+    {
+      "etapa": 2,
+      "materia": 2.842170943040401e-14,
+      "benceno": -2.842170943040401e-14,
+      "energia": -9.313225746154785e-10
+    },
+    {
+      "etapa": 3,
+      "materia": 0.0,
+      "benceno": 0.0,
+      "energia": 6.51925802230835e-09
+    },
+    {
+      "etapa": 4,
+      "materia": 0.0,
+      "benceno": 1.4210854715202004e-14,
+      "energia": -3.725290298461914e-09
+    },
+    {
+      "etapa": 5,
+      "materia": 2.842170943040401e-14,
+      "benceno": 1.4210854715202004e-14,
+      "energia": 3.725290298461914e-09
+    },
+    {
+      "etapa": 6,
+      "materia": 0.0,
+      "benceno": 0.0,
+      "energia": -3.725290298461914e-09
+    },
+    {
+      "etapa": 7,
+      "materia": 0.0,
+      "benceno": -4.263256414560601e-14,
+      "energia": 0.0
+    },
+    {
+      "etapa": 8,
+      "materia": 0.0,
+      "benceno": 1.4210854715202004e-14,
+      "energia": 9.313225746154785e-10
+    },
+    {
+      "etapa": 9,
+      "materia": 2.842170943040401e-14,
+      "benceno": 0.0,
+      "energia": 1.862645149230957e-09
+    },
+    {
+      "etapa": 10,
+      "materia": 0.0,
+      "benceno": 3.552713678800501e-15,
+      "energia": 0.0
+    },
+    {
+      "etapa": 11,
+      "materia": 2.842170943040401e-14,
+      "benceno": 3.552713678800501e-15,
+      "energia": 2.7939677238464355e-09
+    }
+  ],
+  "sensibilidad": [
+    {
+      "R": 2,
+      "N": 13.979276408986369,
+      "N_entero": 14,
+      "alimentacion": 7,
+      "QC_kW": 998.5103009259262,
+      "QR_kW": 1008.8860185185189
+    },
+    {
+      "R": 2.5,
+      "N": 11.579424598276873,
+      "N_entero": 12,
+      "alimentacion": 6,
+      "QC_kW": 1164.9286844135804,
+      "QR_kW": 1175.304402006173
+    },
+    {
+      "R": 3,
+      "N": 10.435924213234848,
+      "N_entero": 11,
+      "alimentacion": 6,
+      "QC_kW": 1331.3470679012348,
+      "QR_kW": 1341.7227854938271
+    },
+    {
+      "R": 4,
+      "N": 9.1769541598839,
+      "N_entero": 10,
+      "alimentacion": 5,
+      "QC_kW": 1664.1838348765436,
+      "QR_kW": 1674.5595524691362
+    }
+  ],
+  "pruebas_invalidas": 8
+}
